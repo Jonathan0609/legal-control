@@ -1,0 +1,17 @@
+.levelsGroup {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.month {
+  border-radius: 8px;
+  border: 4px solid
+    light-dark(var(--mantine-color-gray-3), var(--mantine-color-dark-8));
+  border-collapse: unset;
+}
+
+.day {
+  width: 250px;
+  height: 180px;
+}

@@ -1,0 +1,16 @@
+{
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "editor.codeActionsOnSave": { "source.fixAll.eslint": "explicit" },
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact"
+    ],
+    "prettier.singleQuote": true,
+    "prettier.endOfLine": "crlf",
+    "files.eol": "\r\n"
+  }
+  
